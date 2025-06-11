@@ -26,5 +26,4 @@ A simple booking API for a fictional fitness studio, built using **Python (Flask
 - `pip` or `virtualenv`
 
 1. **Clone the repo**
-git clone  https://github.com/balachandar07/fitness_booking_api.git
-git switch  booking_api
+git clone   https://github.com/balachandar07/fitness_booking_api/tree/booking_api
